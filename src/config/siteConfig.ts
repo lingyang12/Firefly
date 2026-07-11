@@ -6,7 +6,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "汐汐的窝",
+	title: "小墨阳的窝",
 
 	// 站点副标题
 	subtitle: "爱总是短暂的,如果认真对待极为完善",
@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点描述
 	description:
-		"汐汐是一个善良的人，这里将会给你带来更多的知识，技术以及教程喵！",
+		"小墨阳是一个善良的人，这里将会给你带来更多的知识，技术以及教程喵！",
 
 	// 站点关键词
 	keywords: [
@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
 		"Fuwari",
 		"Astro",
 		"ACGN",
-		"博客",
+		"小墨阳",
 		"技术博客",
 		"静态博客",
 
@@ -79,7 +79,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "小阳客栈",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
