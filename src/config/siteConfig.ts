@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "爱总是短暂的,如果认真对待极为完善",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.yxidc.xyz",
 
 	// 站点描述
 	description:
